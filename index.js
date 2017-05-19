@@ -2,7 +2,7 @@
 var restify = require('restify');
 var builder = require('botbuilder');
 // =========================================================
-// Bot Setu 1p
+// Bot Setu 12
 // =========================================================
 
 // Setup Restify Server
