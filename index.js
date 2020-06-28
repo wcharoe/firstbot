@@ -4,7 +4,7 @@ var builder = require('botbuilder');
 // =========================================================
 // Bot Setu 1p
 // =========================================================
-//
+
 // Setup Restify Server
 // Listen for any activity on port 3978 of our local server
 var server = restify.createServer();
